@@ -45,3 +45,6 @@ pretrained/
 # OS
 .DS_Store
 Thumbs.db
+
+# Temp files
+*.tmp
