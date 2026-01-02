@@ -71,7 +71,7 @@ echo "[7/8] Installing torchsparse with GPU support..."
 cd extensions/torchsparse
 rm -rf build *.egg-info 2>/dev/null || true
 # FORCE_CUDA=1 is required to build the HIP/GPU backend
-CUDA_HOME=/opt/rocm FORCE_CUDA=1 pip install . --no-build-isolation
+PYTORCH_ROCM_ARCH=gfx1100 ROCM_HOME=/opt/rocm FORCE_CUDA=1 pip install . --no-build-isolation
 cd ../..
 
 echo ""
